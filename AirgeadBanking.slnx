@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AirgeadBanking.vcxproj" Id="5df1ef9c-9ccf-4537-bc97-188ad167ec27" />
+</Solution>
